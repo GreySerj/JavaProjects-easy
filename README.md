@@ -4,4 +4,4 @@ Introduces an assistant that will be able to guess your age and check your knowl
 
 #### CinemaRoomManager 
 
-Allows to create a cinema room as big as your computer can handle. Provides a menu for buying tickets and displays the current state of the seating arrangement in a cinema.
+Allows to create a cinema room as big as your computer can handle. Provides a menu for buying tickets and displays the current state of the seating arrangement in the cinema.
